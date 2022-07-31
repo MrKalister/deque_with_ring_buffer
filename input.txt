@@ -1,0 +1,83 @@
+81
+8
+push_front 842
+pop_back
+push_front 576
+push_front -853
+pop_back
+push_front 123
+push_front -236
+pop_front
+push_back 840
+pop_front
+push_back 740
+push_back 347
+pop_front
+push_front -767
+push_front -711
+push_back -7
+pop_front
+pop_back
+pop_back
+pop_back
+pop_back
+pop_front
+push_back -215
+push_front 540
+pop_front
+push_front -293
+pop_back
+pop_back
+pop_front
+pop_back
+push_back 873
+push_front 47
+push_back -238
+push_front -575
+pop_front
+push_front -916
+push_front 292
+push_back 302
+push_front 456
+push_back 92
+push_back -422
+push_back 890
+push_back -100
+pop_back
+push_front -356
+pop_front
+push_front 430
+push_front 469
+push_back -56
+push_front 273
+pop_back
+pop_back
+push_front -397
+push_back 131
+pop_front
+push_back -4
+push_front -265
+push_back 10
+push_back -531
+pop_back
+pop_back
+pop_back
+push_front 766
+pop_front
+push_front -520
+pop_back
+pop_back
+pop_back
+pop_back
+pop_back
+push_front -386
+push_back -320
+push_back 21
+pop_front
+push_back 495
+pop_front
+push_front -95
+pop_front
+pop_back
+push_back 908
+push_front 115
